@@ -1,3 +1,2 @@
 # google-homepage
-Google Homepage
-I am a man, know that I am.
+A HTML CSS project to clone the  Google Homepage sans functionality.
