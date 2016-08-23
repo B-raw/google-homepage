@@ -57,7 +57,6 @@ input:hover {
 input:focus {
   outline:none;
   border: 1px solid #0066ff;
-  transition: ease-in-out, width .35s ease-in-out;
 }
 
 .button-wrapper {
@@ -85,7 +84,6 @@ button:hover{
 button:focus {
   outline:none;
   border: 1px solid #0066ff;
-  transition: ease-in-out, width .35s ease-in-out;
 }
 
 /* Footer */
