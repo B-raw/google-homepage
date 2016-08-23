@@ -1,8 +1,26 @@
-/* Global Variables */
- {
-   border: 1px solid red !important;
+/* NavBar */
+nav {
+  position: absolute;
+  width:100%;
+  top:0;
+  padding: 15px 0 0 0;
 }
 
+.right-head {
+  float:right;
+  padding-right: 30px;
+}
+
+nav div a {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 13px;
+}
+
+.small-image {
+  width: 30px;
+  height: 30px;
+}
 
 /* Logo */
 
@@ -92,7 +110,7 @@ footer {
   padding-right: 30px
 }
 
-footer a {
+a {
   text-decoration: none;
   font-size: small;
   color: #666666;
