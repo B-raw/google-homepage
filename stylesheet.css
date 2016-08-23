@@ -15,6 +15,10 @@ nav div a {
     display: inline-block;
     vertical-align: middle;
     font-size: 13px;
+    text-decoration: none;
+    color: #666666;
+    font-family: arial,sans-serif;
+    padding: 0 20px 0 0;
 }
 
 .small-image {
@@ -26,7 +30,7 @@ nav div a {
 
 .logo-wrapper {
   width: 100%;
-  padding: 160px 0 0 0;
+  padding: 150px 0 0 0;
 }
 
 img{
@@ -100,22 +104,21 @@ footer {
 
 .left-foot {
   display:inline-block;
-  padding-left: 15px;
 }
 
 .right-foot {
   display:inline-block;
   position:absolute;
   right:0;
-  padding-right: 30px
+  padding-right: 10px
 }
 
-a {
+footer a {
   text-decoration: none;
   font-size: small;
   color: #666666;
   font-family: arial,sans-serif;
-  margin: 0 13px;
+  margin: 0 25px 0 0;
 }
 
 a:hover {
