@@ -102,6 +102,7 @@ footer {
 
 .left-foot {
   display:inline-block;
+  padding-left: 25px;
 }
 
 .right-foot {
